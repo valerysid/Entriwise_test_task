@@ -1,4 +1,4 @@
-![Task preview](https://github.com/valerysid/Entriwise_test_task/blob/main/Entriwise%20Test%20Task%20v3.gif)
+![Task preview](Entriwise Test Task v3.gif)
 ## The task consists of the following parts:
 
 - Recreate design and layout of the demo
